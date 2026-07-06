@@ -1,0 +1,120 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Mini Browser"
+    },
+    {
+      "name": "address_hint",
+      "value": "Enter address"
+    },
+    {
+      "name": "action_go",
+      "value": "Go"
+    },
+    {
+      "name": "action_back",
+      "value": "Back"
+    },
+    {
+      "name": "action_forward",
+      "value": "Forward"
+    },
+    {
+      "name": "action_reload",
+      "value": "Reload"
+    },
+    {
+      "name": "action_reader",
+      "value": "Reader"
+    },
+    {
+      "name": "action_save",
+      "value": "Save"
+    },
+    {
+      "name": "action_history",
+      "value": "History"
+    },
+    {
+      "name": "action_reading_list",
+      "value": "Reading List"
+    },
+    {
+      "name": "action_settings",
+      "value": "Settings"
+    },
+    {
+      "name": "reader_saved_toast",
+      "value": "Saved to reading list"
+    },
+    {
+      "name": "reader_save_failed",
+      "value": "Could not save article"
+    },
+    {
+      "name": "reader_empty",
+      "value": "No readable content"
+    },
+    {
+      "name": "reading_list_title",
+      "value": "Reading List"
+    },
+    {
+      "name": "reading_list_empty",
+      "value": "Your reading list is empty"
+    },
+    {
+      "name": "history_title",
+      "value": "History"
+    },
+    {
+      "name": "history_empty",
+      "value": "No browsing history yet"
+    },
+    {
+      "name": "history_current",
+      "value": "Current"
+    },
+    {
+      "name": "settings_title",
+      "value": "Data & Privacy"
+    },
+    {
+      "name": "settings_clear_cookies",
+      "value": "Clear cookies"
+    },
+    {
+      "name": "settings_clear_history",
+      "value": "Clear History"
+    },
+    {
+      "name": "settings_clear_storage",
+      "value": "Clear DOM storage"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Clear cache"
+    },
+    {
+      "name": "settings_clear_database",
+      "value": "Clear web database"
+    },
+    {
+      "name": "settings_done",
+      "value": "Done"
+    },
+    {
+      "name": "settings_failed",
+      "value": "Action failed"
+    }
+  ]
+}

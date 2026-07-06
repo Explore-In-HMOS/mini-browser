@@ -1,0 +1,72 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "page_background",
+      "value": "#000000"
+    },
+    {
+      "name": "reader_background",
+      "value": "#000000"
+    },
+    {
+      "name": "card_background",
+      "value": "#161618"
+    },
+    {
+      "name": "card_background_alt",
+      "value": "#0E0E10"
+    },
+    {
+      "name": "surface_border",
+      "value": "#232327"
+    },
+    {
+      "name": "toolbar_background",
+      "value": "#161618"
+    },
+    {
+      "name": "toolbar_icon",
+      "value": "#E7E7EA"
+    },
+    {
+      "name": "primary_text",
+      "value": "#F4F4F5"
+    },
+    {
+      "name": "reader_text",
+      "value": "#F4F4F5"
+    },
+    {
+      "name": "text_body",
+      "value": "#C4C4CC"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#A1A1AA"
+    },
+    {
+      "name": "reader_dim_text",
+      "value": "#6B6B73"
+    },
+    {
+      "name": "accent",
+      "value": "#F97316"
+    },
+    {
+      "name": "accent_hover",
+      "value": "#FB8C3C"
+    },
+    {
+      "name": "on_accent",
+      "value": "#1A1208"
+    },
+    {
+      "name": "destructive",
+      "value": "#F43F5E"
+    }
+  ]
+}
